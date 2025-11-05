@@ -189,10 +189,7 @@
 }
 
 @media (max-width: 600px) {
-  .logo1 img {
-    width: 80%;
-  }
-
+ 
   .moustache img {
     width: 80%;
     top: -80px;
